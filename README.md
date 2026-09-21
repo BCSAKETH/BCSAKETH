@@ -88,7 +88,10 @@ I'd rather ship something real to production than just study the theory behind i
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+
+  <!-- TOM DEMARCO ANIMATED QUOTE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=00DFD8&center=true&vCenter=true&multiline=false&width=720&height=40&lines=%22The+very+best+technology+never+has+as+much+impact...%22;%22...as+girlfriend+or+boyfriend+trouble.%22+%E2%80%94+Tom+DeMarco" alt="Tom DeMarco Quote" />
+
   <br/><br/>
   <p><i>Open to AI Engineering & Full-Stack opportunities — let's build something that ships. 🚀</i></p>
   <a href="mailto:bcsaketh123@gmail.com"><b>Get in touch → bcsaketh123@gmail.com</b></a>
