@@ -292,13 +292,26 @@ I am a 3rd-year **B.Tech Computer Science (Data Science)** student at **TKEM, JN
 
 ---
 
-### 💬 Daily Dev Quote
+### 💡 Engineering Truth
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
-  <br/><br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=00DFD8&center=true&vCenter=true&multiline=false&width=780&height=40&lines=%22The+very+best+technology+never+has+as+much+impact...%22;%22...as+girlfriend+or+boyfriend+trouble.%22+%E2%80%94+Tom+DeMarco" alt="Tom DeMarco Quote" />
+
+  <br/>
+
+  <blockquote>
+    <i>"The very best technology never has as much impact as girlfriend or boyfriend trouble."</i><br/>
+    <b>— Tom DeMarco</b>
+  </blockquote>
+
+  <br/>
+
   <p><b>Open to AI Engineering & Full-Stack opportunities — let's build something that ships. 🚀</b></p>
   <a href="mailto:bcsaketh123@gmail.com"><b>Get in touch → bcsaketh123@gmail.com</b></a>
+
   <br/><br/>
   <sub><i>⚡ Engineered with precision by <a href="https://github.com/BCSAKETH">Balija Chamakura Saketh</a></i></sub>
+
 </div>
+
