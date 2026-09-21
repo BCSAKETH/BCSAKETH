@@ -88,6 +88,9 @@ I'd rather ship something real to production than just study the theory behind i
 ---
 
 <div align="center">
-  <p><i>Open to AI Engineering & Full-Stack opportunities — let's build something great! 🚀</i></p>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+  <br/><br/>
+  <p><i>Open to AI Engineering & Full-Stack opportunities — let's build something that ships. 🚀</i></p>
   <a href="mailto:bcsaketh123@gmail.com"><b>Get in touch → bcsaketh123@gmail.com</b></a>
 </div>
+
