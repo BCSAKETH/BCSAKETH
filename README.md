@@ -2,12 +2,12 @@
 
   <!-- HERO BANNER -->
   <a href="https://github.com/BCSAKETH">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,25:161B22,50:0052CC,75:7928CA,100:00DFD8&height=240&section=header&text=BALIJA%20CHAMAKURA%20SAKETH&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20AI%20Engineer%20%7C%202%C3%97%20Hackathon%20Winner%20%7C%20Data%20Science%20Researcher&descSize=17&descAlignY=58&descAlign=50" width="100%" alt="Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0D1117,25:161B22,50:0052CC,75:7928CA,100:00DFD8&height=240&section=header&text=BALIJA%20CHAMAKURA%20SAKETH&fontSize=40&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI-Native%20Systems%20Architect%20%7C%20Full-Stack%20AI%20Engineer%20%7C%202%C3%97%20Hackathon%20Winner&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="Header" />
   </a>
 
   <!-- DYNAMIC TYPING SVG -->
   <a href="https://github.com/BCSAKETH">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00DFD8&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Full-Stack+AI+Engineer+%E2%9A%A1;2%C3%97+National+Hackathon+Champion+%F0%9F%8F%86;Building+GraphRAG+%26+Multi-Agent+Copilots+%F0%9F%A4%96;Data+Science+Intern+%40+Cognifyz+IT+Solutions+%F0%9F%93%8A;Shipping+Scalable+Production-Grade+AI+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=00DFD8&center=true&vCenter=true&multiline=false&width=750&height=45&lines=AI-Native+Systems+Architect+%E2%9A%A1;Human-Driven+Architecture+%2B+AI-Accelerated+Execution+%F0%9F%A7%A0%E2%9A%A1;2%C3%97+National+Hackathon+Champion+%F0%9F%8F%86;Building+GraphRAG+%26+Multi-Agent+Copilots+%F0%9F%A4%96;Data+Science+Intern+%40+Cognifyz+IT+Solutions+%F0%9F%93%8A;Operating+as+a+10x+Full-Stack+Engineering+Team+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -35,15 +35,17 @@
 
 ---
 
-### ⚡ Mission Brief
+### ⚡ Architecture & Engineering Philosophy
 
-> *"I'd rather ship something real to production than just study the theory behind it."*
+> *"System Architecture, Data Models & Security: 100% Human-Engineered. Execution & Code Delivery: AI-Accelerated at 10x Velocity."*
 
-I am a 3rd-year **B.Tech Computer Science (Data Science)** student at **TKEM, JNTUH** (5th Sem GPA: **8.35**), engineering full-stack AI platforms with enterprise-grade resilience. My focus bridges **Applied Machine Learning**, **GraphRAG / LLM Copilots**, and **High-Performance Full-Stack Systems**.
+I am an **AI-Native Systems Architect & Full-Stack AI Engineer** (3rd-year B.Tech CSE Data Science @ TKEM, JNTUH · 5th Sem GPA: **8.35**).
 
-- 🔭 **Current Role:** Data Science Intern @ **Cognifyz IT Solutions Pvt. Ltd.** (EDA & predictive modeling on 9.5k+ records).
-- 🏆 **Hackathon Leadership:** Led teams to **1st Place at AlgoMath Datathon 2026** (₹10,000 prize) & **1st Honorable Mention at HackForge 2.0**.
-- 🛡️ **Police AI Copilot:** Architected **VAJRA (ವಜ್ರ)** — a bilingual crime intelligence AI system for the **Karnataka State Police Datathon 2026**.
+I bridge the gap between complex system design and rapid execution. I independently architect complete software blueprints from scratch — defining relational schemas, state machines, ML pipelines, communication protocols, and security defenses — then orchestrate modern AI tools and agents as an execution engine to ship production-ready platforms at unmatched speed.
+
+- 🧠 **Architectural Blueprinting:** Designing multi-tier architectures, PostgreSQL/Supabase RLS policies, SHA-256 audit triggers, and GraphRAG/vector pipelines independently.
+- ⚡ **AI-Assisted 10x Execution:** Directing agentic coding workflows to build, test, and deploy resilient web/mobile apps in record time.
+- 🏆 **Proven Track Record:** **1st Place at AlgoMath Datathon 2026** (₹10,000 prize), **1st Honorable Mention at HackForge 2.0**, and Data Science Intern @ **Cognifyz IT Solutions**.
 
 ---
 
